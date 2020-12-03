@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='My MS SQL Server Database Connection'

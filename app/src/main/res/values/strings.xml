@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My MS SQL Server Database Connection</string>
+    <string name="sql">SQL</string>
+</resources>
