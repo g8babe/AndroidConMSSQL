@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
             } catch (SQLException e) {
                 e.printStackTrace();
+
             }
 
         }
